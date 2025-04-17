@@ -1,0 +1,80 @@
+.logo{
+    width: 150px;
+    height: auto;
+    display: block; 
+    margin: 0 auto;
+}
+
+footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #333;
+      color: white;
+    }
+
+body {
+    background-color: #405059;
+}
+
+.mi-navbar {
+    background-color: #333 ;
+}
+
+.mi-navbar .nav-link,
+.mi-navbar .navbar-brand {
+    color: white;
+}
+
+.mi-navbar .nav-link:hover {
+    color: #ccc;
+}
+
+.producto-detalle {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+}
+
+.producto-detalle h2 {
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+/* Barra lateral de categorías */
+.sidebar {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar h3 {
+    font-size: 1.25rem;
+    margin-bottom: 15px;
+}
+
+.sidebar .list-group-item {
+    border: 1px solid #ddd;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.sidebar .list-group-item:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-body {
+    background-color: #f9f9f9;
+    padding: 15px;
+}
+

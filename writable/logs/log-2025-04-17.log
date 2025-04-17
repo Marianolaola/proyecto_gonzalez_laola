@@ -1,0 +1,322 @@
+CRITICAL - 2025-04-17 18:03:46 --> ErrorException: Undefined variable $titulo
+[Method: GET, Route: productos]
+in APPPATH\Views\front\layouts.php on line 12.
+ 1 APPPATH\Views\front\layouts.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('front/layouts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 6 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 18:03:59 --> ErrorException: Undefined variable $titulo
+[Method: GET, Route: productos]
+in APPPATH\Views\front\layouts.php on line 12.
+ 1 APPPATH\Views\front\layouts.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('front/layouts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 6 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 18:05:26 --> ErrorException: Undefined variable $titulo
+[Method: GET, Route: productos]
+in APPPATH\Views\front\layouts.php on line 12.
+ 1 APPPATH\Views\front\layouts.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('front/layouts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 6 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 18:05:31 --> ErrorException: Undefined variable $titulo
+[Method: GET, Route: productos]
+in APPPATH\Views\front\layouts.php on line 12.
+ 1 APPPATH\Views\front\layouts.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('front/layouts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 6 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 18:05:58 --> ErrorException: Undefined variable $titulo
+[Method: GET, Route: productos]
+in APPPATH\Views\front\layouts.php on line 12.
+ 1 APPPATH\Views\front\layouts.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('front/layouts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 6 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 18:10:35 --> ErrorException: Undefined variable $titulo
+[Method: GET, Route: productos]
+in APPPATH\Views\front\layouts.php on line 12.
+ 1 APPPATH\Views\front\layouts.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('front/layouts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 6 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 18:10:55 --> ErrorException: Undefined variable $titulo
+[Method: GET, Route: productos]
+in APPPATH\Views\front\layouts.php on line 12.
+ 1 APPPATH\Views\front\layouts.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('front/layouts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 6 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 18:13:48 --> ErrorException: Undefined variable $titulo
+[Method: GET, Route: productos]
+in APPPATH\Views\front\layouts.php on line 12.
+ 1 APPPATH\Views\front\layouts.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('front/layouts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 6 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 18:13:56 --> ErrorException: Undefined variable $titulo
+[Method: GET, Route: productos]
+in APPPATH\Views\front\layouts.php on line 12.
+ 1 APPPATH\Views\front\layouts.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('front/layouts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 6 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 18:15:53 --> ErrorException: Undefined variable $titulo
+[Method: GET, Route: productos]
+in APPPATH\Views\front\layouts.php on line 12.
+ 1 APPPATH\Views\front\layouts.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('front/layouts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 6 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 18:16:04 --> ErrorException: Undefined variable $titulo
+[Method: GET, Route: productos]
+in APPPATH\Views\front\layouts.php on line 12.
+ 1 APPPATH\Views\front\layouts.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('front/layouts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 6 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 18:19:17 --> ErrorException: Undefined variable $titulo
+[Method: GET, Route: productos]
+in APPPATH\Views\front\layouts.php on line 12.
+ 1 APPPATH\Views\front\layouts.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('front/layouts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 6 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 18:19:27 --> ErrorException: Undefined variable $titulo
+[Method: GET, Route: productos]
+in APPPATH\Views\front\layouts.php on line 12.
+ 1 APPPATH\Views\front\layouts.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('front/layouts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 6 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 18:39:21 --> ErrorException: Undefined variable $titulo
+[Method: GET, Route: producto/detalle/1]
+in APPPATH\Views\front\layouts.php on line 12.
+ 1 APPPATH\Views\front\layouts.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\layouts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('front/layouts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/detalle', [], true)
+ 6 APPPATH\Controllers\Front\Producto.php(57): view('front/productos/detalle', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->detalle('1')
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 19:38:15 --> ErrorException: Undefined variable $categorias
+[Method: GET, Route: productos]
+in APPPATH\Views\front\productos\index.php on line 10.
+ 1 APPPATH\Views\front\productos\index.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categorias', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php', 10)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 5 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 19:39:15 --> ErrorException: Undefined variable $categorias
+[Method: GET, Route: productos]
+in APPPATH\Views\front\productos\index.php on line 10.
+ 1 APPPATH\Views\front\productos\index.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categorias', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php', 10)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 5 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 19:39:23 --> ErrorException: Undefined variable $categorias
+[Method: GET, Route: productos]
+in APPPATH\Views\front\productos\index.php on line 10.
+ 1 APPPATH\Views\front\productos\index.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categorias', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php', 10)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 5 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 19:40:42 --> ErrorException: Undefined variable $categorias
+[Method: GET, Route: productos]
+in APPPATH\Views\front\productos\index.php on line 10.
+ 1 APPPATH\Views\front\productos\index.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categorias', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php', 10)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 5 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 19:41:40 --> ErrorException: Undefined variable $categorias
+[Method: GET, Route: productos]
+in APPPATH\Views\front\productos\index.php on line 10.
+ 1 APPPATH\Views\front\productos\index.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categorias', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php', 10)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 5 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 19:41:49 --> ErrorException: Undefined variable $categorias
+[Method: GET, Route: productos]
+in APPPATH\Views\front\productos\index.php on line 10.
+ 1 APPPATH\Views\front\productos\index.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categorias', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php', 10)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 5 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 19:43:52 --> ErrorException: Undefined variable $categorias
+[Method: GET, Route: productos]
+in APPPATH\Views\front\productos\index.php on line 10.
+ 1 APPPATH\Views\front\productos\index.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categorias', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php', 10)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 5 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-17 19:44:00 --> ErrorException: Undefined variable $categorias
+[Method: GET, Route: productos]
+in APPPATH\Views\front\productos\index.php on line 10.
+ 1 APPPATH\Views\front\productos\index.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categorias', 'C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php', 10)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\proyecto_gonzalez_laola\\app\\Views\\front\\productos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('front/productos/index', [], true)
+ 5 APPPATH\Controllers\Front\Producto.php(37): view('front/productos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Front\Producto->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Front\Producto))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
